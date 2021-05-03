@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamprakashsp(Just a lucky username, or maybe 'sp' in the end stands for shivam prakash, cool isn't XD)
+- 👋 Hi, I’m @shivamprakashsp
 - 👀 I’m interested in developing ML web applications with optimized code.
 - 🌱 I’m currently learning Full Stack Web Development and Machine Learning.
 - 📫 How to reach me: shivamprakashsp@gmail.com
